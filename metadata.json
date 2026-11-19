@@ -1,0 +1,6 @@
+{
+  "name": "Career Dossier Studio",
+  "description": "Multimodal career profile interpreter that reads RIASEC and Big 5 personality test result images alongside top three career choices to generate an archival Dossier or Credential ID poster.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
